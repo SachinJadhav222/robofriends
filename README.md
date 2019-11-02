@@ -1,2 +1,0 @@
-# robofriends
-React application demo
